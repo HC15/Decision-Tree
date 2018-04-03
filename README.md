@@ -5,6 +5,8 @@ Uses reduced error post pruning algorithm to help prevent overfitting
 
 
 # To Run Code
+Using python 3
+
 python main.py training-set validation-set test-set to-print:{yes,no} prune:{yes, no}
 
 training-set is the path of the training set csv file
